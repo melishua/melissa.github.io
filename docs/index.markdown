@@ -7,7 +7,7 @@ layout: home
 
 Hello there! nice to meet you and welcome to my page. I am a software engineer, a master student at Carnegie Mellon University, and a curious human being.
 
-![Home Page Image](/assets/img/home_page_image.JPG)
+<img align="right" src="/assets/img/home_page_image.JPG" alt="Home Page Image" width="250"/>
 
 I am interested in machine learning systems, distributed systems, and hyper-scale computing. 
 
